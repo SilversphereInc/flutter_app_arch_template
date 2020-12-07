@@ -21,3 +21,10 @@ doc/api/
 *.js.map
 /.idea/
 /android/.idea/
+*.iml
+.idea/vcs.xml
+.idea/$CACHE_FILE$
+.idea/flutter_app_arch_template.iml
+.idea/libraries/Dart_SDK.xml
+.idea/modules.xml
+.flutter-plugins-dependencies
